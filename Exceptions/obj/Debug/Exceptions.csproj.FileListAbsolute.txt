@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\CSharpUygulamalar\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\user\source\repos\CSharpUygulamalar\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\user\source\repos\CSharpUygulamalar\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\user\source\repos\CSharpUygulamalar\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharpUygulamalar\Exceptions\obj\Debug\Exceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\CSharpUygulamalar\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpUygulamalar\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\user\source\repos\CSharpUygulamalar\Exceptions\obj\Debug\Exceptions.pdb
